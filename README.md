@@ -1,3 +1,4 @@
 # Trendzz
 App to show latest trending news near me
-Author - Chirag ji
+<br>Not able to clone this project on local machine
+
